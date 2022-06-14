@@ -1,8 +1,8 @@
 {
   "name": "sd-0x-project-react-testing-library",
   "version": "0.1.0",
+  "homepage": "./",
   "private": true,
-  "homepage:": "./",
   "engines": {
     "node": "16"
   },
