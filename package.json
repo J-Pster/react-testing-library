@@ -1,7 +1,7 @@
 {
   "name": "sd-0x-project-react-testing-library",
-  "version": "0.2.0",
-  "homepage": "./",
+  "version": "0.2.1",
+  "homepage": "https://j-pster.github.io/react-testing-library/",
   "private": true,
   "engines": {
     "node": "16"
